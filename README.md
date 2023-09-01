@@ -1,2 +1,2 @@
 # StarCraftGameCounter
-Basic coutner coded with HTML,CSS,JS to track data of your games played.
+Basic counter coded with HTML,CSS,JS to track data of your games played. Data has to be entered manually. This application tracks the number of total games played, your win and loss ratio of the games you have played, and also has a tracker for your win loss ratio with each faction you can play as within the game. First you select Protoss, Terran, or Zerg to signal to the app which faction you are playing as. From there after every game played you can add if you have won or lost the game and it will be added to the tracker. If you switch factions you simply select a different faction.
